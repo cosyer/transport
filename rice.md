@@ -1,0 +1,2 @@
+- [ ] [校科协新生杯前端](https://github.com/UZIhuhuhu/sast-fresh-cup)
+- [ ] [协会主页](https://github.com/UZIhuhuhu/sacc-homepage)
